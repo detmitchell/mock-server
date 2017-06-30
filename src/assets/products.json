@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Laptop",
+    "keywords": ["computer","technology","laptop","portable"],
+    "description": "Portable device for computational needs",
+    "price": 450
+  },
+  {
+    "name": "Nintendo Switch",
+    "keywords": ["console","technology","video","games","entertainment","nintendo","switch"],
+    "description": "Latest product from nintendo",
+    "price": 500
+  },
+  {
+    "name": "Xbox One X",
+    "keywords": ["console","technology","video", "games","entertainment","microsoft","xbox"],
+    "description": "Latest console gaming device from Microsoft",
+    "price": 400
+  },
+  {
+    "name": "Playstation 4",
+    "keywords": ["console","technology","video", "games","entertainment","sony","playstation"],
+    "description": "Latest console gaming device from Sony",
+    "price": 475
+  },
+  {
+    "name": "Television",
+    "keywords": ["entertainment","tv","television","technology"],
+    "description": "For watching stuff",
+    "price": 250
+  },
+  {
+    "name": "Groceries",
+    "keywords": ["groceries","food","drink"],
+    "description": "I don't know, apparently Amazon sells these now",
+    "price": 112
+  },
+  {
+    "name": "Breath of the Wild",
+    "keywords": ["video", "games","nintendo","switch"],
+    "description": "Still the only game worth buying",
+    "price": 60
+  }
+]
