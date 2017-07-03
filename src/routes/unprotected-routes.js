@@ -12,7 +12,6 @@ app.get('/api/random-quote', function(req, res){
 });
 
 app.post('/api/product-search', function(req, res){
-  console.log('product search requested for paramaters:'+req.body)
   if(!req.body || !req.body.keySearch){
     res.status(400).send('Please enter some keywords to search');
   }
