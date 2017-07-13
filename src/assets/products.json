@@ -9,19 +9,22 @@
     "name": "Nintendo Switch",
     "keywords": ["console","technology","video","games","entertainment","nintendo","switch"],
     "description": "Latest product from nintendo",
-    "price": 500
+    "price": 500,
+    "imageUrl":"http://www.nintendo.com/switch/etRgxnAu0zRX4bmWnt9K628wG7YQUI6t/images/switch/cta/switch-angle.png"
   },
   {
     "name": "Xbox One X",
     "keywords": ["console","technology","video", "games","entertainment","microsoft","xbox"],
     "description": "Latest console gaming device from Microsoft",
-    "price": 400
+    "price": 400,
+    "imageUrl":"http://freepngimages.com/wp-content/uploads/2015/10/Xbox-one-console-transparent-background.png"
   },
   {
     "name": "Playstation 4",
     "keywords": ["console","technology","video", "games","entertainment","sony","playstation"],
     "description": "Latest console gaming device from Sony",
-    "price": 475
+    "price": 475,
+    "imageUrl":"http://www.beetronix.com.au/2015/wp-content/uploads/2015/05/sony-ps4.png"
   },
   {
     "name": "Television",
@@ -39,6 +42,7 @@
     "name": "Breath of the Wild",
     "keywords": ["video", "games","nintendo","switch"],
     "description": "Still the only game worth buying",
-    "price": 60
+    "price": 60,
+    "imageUrl":"https://hydra-media.cursecdn.com/zelda.gamepedia.com/thumb/c/c7/BotW_NA_Switch_Box_Art.png/200px-BotW_NA_Switch_Box_Art.png?version=a1499d9d67ce6270e9553b3b0bd395c3"
   }
 ]
